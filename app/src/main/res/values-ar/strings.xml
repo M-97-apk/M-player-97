@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M player 97</string>
+    <string name="notification_channel_playback">تشغيل الموسيقى</string>
+    <string name="notification_channel_overlay">المشغل المصغر العائم</string>
+    <string name="overlay_notification_title">مشغل M player 97 المصغر</string>
+    <string name="overlay_notification_text">التحكم العائم مفعل فوق التطبيقات الأخرى</string>
+</resources>

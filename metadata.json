@@ -1,0 +1,6 @@
+{
+  "name": "M player 97",
+  "description": "100% offline local audio & video player with 8D spatial audio, 5 ultra-dark frosted glass themes, equalizer, sleep timer, custom playlist covers, drag-and-drop sorting, floating overlay mini-player, and insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

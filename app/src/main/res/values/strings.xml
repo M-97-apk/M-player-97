@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M player 97</string>
+    <string name="notification_channel_playback">Music Playback</string>
+    <string name="notification_channel_overlay">Floating Mini Player</string>
+    <string name="overlay_notification_title">M player 97 Mini-Player</string>
+    <string name="overlay_notification_text">Floating controls active over other apps</string>
+</resources>
